@@ -112,3 +112,11 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+## Summary of files added to the repository
+
+Dec. 31, 2017: This is an update to the README file summarizing the work done by Jeff Wagg as part of the first project of the Exploratory Data Analysis course. 
+
+* Course4Project1.R: This is the master script used to read in, format and plot the requested datasets in PNG format. 
+
+* Plot(1-4).png : These are the plots which have been generated as per the instructions. 
